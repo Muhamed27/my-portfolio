@@ -9,7 +9,7 @@ const PROJECTS = [
     title: "Brava Fashion",
     category: "frontend",
     image_url: "/images/brava.png",
-    live_url: "https://vocal-kataifi-990aeb.netlify.app/?fbclid=PAVERFWAReIBtleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAadw4Itvb5OcixNRvPdE3TRr8nUhWvwbaLJBEWBeHrEcIfHNRTq1u6S6QMeWNw_aem_-4GPky6Qa-iW06hYBRQhuQ",
+    live_url: "https://jade-shortbread-6cd905.netlify.app",
     source_url: "",
     tech_stack: ["React", "Tailwind", "Responsive design", "UX/UI"],
     description: {
