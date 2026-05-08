@@ -9,7 +9,7 @@ const PROJECTS = [
     title: "Brava Fashion",
     category: "frontend",
     image_url: "/images/brava.png",
-    live_url: "https://lovely-bonbon-94f645.netlify.app",
+    live_url: "https://cheery-dragon-e2655e.netlify.app",
     source_url: "",
     tech_stack: ["React", "Tailwind", "Responsive design", "UX/UI"],
     description: {
